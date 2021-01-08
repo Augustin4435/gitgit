@@ -9,4 +9,5 @@
 	echo "foruth line form online";
 	
 	echo "fifth line from online";
+	echo "fifth line from cli";
 ?>
